@@ -1,0 +1,53 @@
+.banner-image{background-image:url(./image5.jpg);
+  background-repeat:no-repeat;
+     ;background-attachment:fixed;
+    background-size: cover;
+
+}
+
+
+
+
+
+.card{
+
+   background-color: beige;
+
+   box-shadow: 0 0 15px rgb(234, 234, 78);
+color: #000;
+backdrop-filter:blur(2px);
+
+}
+
+.list-group-item-primary{
+    height: max-content;
+    color: aliceblue;
+}
+
+.typeContainerCol{
+    margin-top: 20%;
+    height:50%;
+margin-bottom:3%;}
+
+
+.typeListofbreweries{color:white;}
+
+ul{
+    list-style-image: url(./wind.svg);
+
+    list-style-position:inside;
+    list-style-position: 2px;
+
+
+}
+
+
+.styletypeContainerCol2{
+
+    box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+color: #000;
+backdrop-filter:blur(2px);
+
+}
+
+
