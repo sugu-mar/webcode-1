@@ -126,7 +126,7 @@ typeContainerRow.append(typeContainerCol2);
 
 // brewer type heading
 let typeHeading = document.createElement('h3');
-typeHeading.innerHTML='AAAvailable Brewery types'
+typeHeading.innerHTML='Available Brewery types'
 typeHeading.style="color:white;"
 
 typeHeading.classList.add('mb-3')
